@@ -1,0 +1,9 @@
+c:\users\שחף\documents\visual studio 2015\Projects\match game project\match game project\bin\Debug\match game project.exe.config
+c:\users\שחף\documents\visual studio 2015\Projects\match game project\match game project\bin\Debug\match game project.exe
+c:\users\שחף\documents\visual studio 2015\Projects\match game project\match game project\bin\Debug\match game project.pdb
+c:\users\שחף\documents\visual studio 2015\Projects\match game project\match game project\obj\Debug\match game project.csprojResolveAssemblyReference.cache
+c:\users\שחף\documents\visual studio 2015\Projects\match game project\match game project\obj\Debug\match_game_project.Form1.resources
+c:\users\שחף\documents\visual studio 2015\Projects\match game project\match game project\obj\Debug\match_game_project.Properties.Resources.resources
+c:\users\שחף\documents\visual studio 2015\Projects\match game project\match game project\obj\Debug\match game project.csproj.GenerateResource.Cache
+c:\users\שחף\documents\visual studio 2015\Projects\match game project\match game project\obj\Debug\match game project.exe
+c:\users\שחף\documents\visual studio 2015\Projects\match game project\match game project\obj\Debug\match game project.pdb
